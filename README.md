@@ -44,7 +44,7 @@
 * The last thing. You may notice that the V_air and V_gnd is really off the track. Therefore, in "mwc.ino" and "uno.ino" you can find "#define offV", which enables you to calibrate the value by hand. For example, if V_gnd is 3.7 displayed in terminal, while its real value is 4.0, then I'll enter "#define offV 0.3 (4.0 - 3.7)".
   
   
-4) CREDITS
+## CREDITS
 
 * Libraries are very helpful. I saved a lot of time by using them. I'd like to thank contributors who uploaded their libraries.
   
